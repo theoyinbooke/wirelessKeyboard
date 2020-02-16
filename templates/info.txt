@@ -1,0 +1,5 @@
+This directory contains all the templates that (FLASK app hosts) 
+
+
+It is a bit overkill but keeps things organized
+
